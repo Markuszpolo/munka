@@ -1,6 +1,4 @@
 Mirci 
-<<<<<<< HEAD
 Cirmos 
 Cicko 
-=======
->>>>>>> 1e96eb7100c62b4da6f713d8dcb81dadc531803a
+
